@@ -1,7 +1,7 @@
 # Telegram Bot
  
  
- [![thumbnail_bot_clone](https://github.com/azkadev/products_telegram_bot_clone/assets/82513502/2b5cff82-34f8-42f7-8b44-bf2ff722e269)](https://www.youtube.com/watch?v=pPxHdb5JsB8)
+ [![thumbnail_bot_clone](https://img.youtube.com/vi/IncR_OpR7_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=IncR_OpR7_k)
 
 Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ? yuk pakai produk kami  untuk pembelian kalian bisa tap link pembelian jika anda butuh video tutorial beli silahkan tap image di atas ya 
 
