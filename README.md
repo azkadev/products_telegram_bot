@@ -7,17 +7,18 @@ Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ?
 
 ## Price
 
-Harga saat ini 100k aktif selamanya, (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
+Harga saat ini 100k aktif 30 hari (kamu bebas menentukan berapa bulan bot aktif), (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
 
 ## Features
 
 1. Repeat Message (Multi Clients)
-2. Add Member
+2. Manage Group, Private, Channel
 3. Afk
 4. Chatbot 
 5. Auto Read
 6. Auto Clear Chat
-7. Dan lain lain
+7. Auto Forward Chat
+8. Dan lain lain
 
 ## Link Pembelian
 
