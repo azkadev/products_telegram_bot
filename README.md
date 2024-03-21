@@ -1,27 +1,27 @@
-# Telegram Bot
- 
- 
- [![thumbnail_bot_clone](https://img.youtube.com/vi/IncR_OpR7_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=IncR_OpR7_k)
+IyBUZWxlZ3JhbSBCb3QKIAogCiBbIVt0aHVtYm5haWxfYm90X2Nsb25lXSho
+dHRwczovL2ltZy55b3V0dWJlLmNvbS92aS9JbmNSX09wUjdfay9tYXhyZXNk
+ZWZhdWx0LmpwZyldKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9
+SW5jUl9PcFI3X2spCgpIYWkga2FtdSBtYXUgbWVsYWt1a2FuIHByb21vc2kg
+LyBpbmdpbiBha3VuIGthbXUgYmViYXMgZGFyaSBzcGFtbWVyIC8gYnVsbHlp
+bmcgPyB5dWsgcGFrYWkgcHJvZHVrIGthbWkgIHVudHVrIHBlbWJlbGlhbiBr
+YWxpYW4gYmlzYSB0YXAgbGluayBwZW1iZWxpYW4gamlrYSBhbmRhIGJ1dHVo
+IHZpZGVvIHR1dG9yaWFsIGJlbGkgc2lsYWhrYW4gdGFwIGltYWdlIGRpIGF0
+YXMgeWEgCgojIyBQcmljZQoKSGFyZ2Egc2FhdCBpbmkgMTAwayBha3RpZiAz
+MCBoYXJpIChrYW11IGJlYmFzIG1lbmVudHVrYW4gYmVyYXBhIGJ1bGFuIGJv
+dCBha3RpZiksIChIYXJnYSBzZXdha3R1IHdha3R1IGJpc2EgYmVydWJhaCB0
+YW5wYSBwZW1iZXJpIHRhaHVhbiBzaWxhaGthbiBidXJ1YW4gYmVsaSBzZWth
+cmFuZyAhISkKCiMjIEZlYXR1cmVzCgoxLiBSZXBlYXQgTWVzc2FnZSAoTXVs
+dGkgQ2xpZW50cykKMi4gTWFuYWdlIEdyb3VwLCBQcml2YXRlLCBDaGFubmVs
+CjMuIEFmawo0LiBDaGF0Ym90IAo1LiBBdXRvIFJlYWQKNi4gQXV0byBDbGVh
+ciBDaGF0CjcuIEF1dG8gRm9yd2FyZCBDaGF0CjguIERhbiBsYWluIGxhaW4K
+CiMjIExpbmsgUGVtYmVsaWFuCgoxLiBbQVpLQURFViBCT1QgVEVMRUdSQU1d
+KGh0dHBzOi8vdC5tZS9hemthZGV2Ym90P3N0YXJ0PXJlZl90Z19ib3RfY2xv
+bmVfZ2l0aHViX2F6a2FkZXYpCjIuIFtHTFggQ09SUCBCT1QgVEVMRUdSQU1d
+KGh0dHBzOi8vdC5tZS9nbHhjb3JwYm90P3N0YXJ0PXJlZl90Z19ib3RfY2xv
+bmVfZ2l0aHViX2F6a2FkZXYpCjMuIFtYVFggQ09SUCBCT1QgVEVMRUdSQU1d
+KGh0dHBzOi8vdC5tZS94dHhjb3JwYm90P3N0YXJ0PXJlZl90Z19ib3RfY2xv
+bmVfZ2l0aHViX2F6a2FkZXYp
 
-Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ? yuk pakai produk kami  untuk pembelian kalian bisa tap link pembelian jika anda butuh video tutorial beli silahkan tap image di atas ya 
-
-## Price
-
-Harga saat ini 100k aktif 30 hari (kamu bebas menentukan berapa bulan bot aktif), (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
-
-## Features
-
-1. Repeat Message (Multi Clients)
-2. Manage Group, Private, Channel
-3. Afk
-4. Chatbot 
-5. Auto Read
-6. Auto Clear Chat
-7. Auto Forward Chat
-8. Dan lain lain
-
-## Link Pembelian
-
-1. [AZKADEV BOT TELEGRAM](https://t.me/azkadevbot?start=ref_tg_bot_clone_github_azkadev)
-2. [GLX CORP BOT TELEGRAM](https://t.me/glxcorpbot?start=ref_tg_bot_clone_github_azkadev)
-3. [XTX CORP BOT TELEGRAM](https://t.me/xtxcorpbot?start=ref_tg_bot_clone_github_azkadev)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
